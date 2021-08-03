@@ -4,7 +4,7 @@
 
 }
 
-#heading{
+#title{
     text-align: center;
     font-size: 50px;
 }
@@ -18,9 +18,10 @@
 #image{
     max-width: 100%;
     height: auto;
+    display: block;
 }
 
-#imageDiv{
+#img-div{
     text-align: center;
 }
 
