@@ -1,22 +1,27 @@
 #main{
     background-color: antiquewhite;
-
-}
-
-h1{
-    margin: 30px;
-    text-align: center;
-    padding-top: 20px;
     font-family: 'Style Script', cursive;
+
 }
+
+#heading{
+    text-align: center;
+    font-size: 50px;
+}
+
 
 #tagline{
+    margin-top: 10px;
     text-align: center;
 }
 
 #image{
     max-width: 100%;
     height: auto;
+}
+
+#imageDiv{
+    text-align: center;
 }
 
 #caption{
@@ -30,6 +35,7 @@ ul{
 
 #timelineh3{
     text-align: center;
+    margin-top: 20px;
 }
 
 #footer{
